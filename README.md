@@ -66,28 +66,19 @@ No server restart or manual cache clearing is required.
 
 This behavior is intentional to support an evolving operational roadmap.
 
-🛠️ Local Execution (Optional)
+## 🛠️ Local Execution (Optional)
 To run the dashboard locally:
 
 bash
 Copiar código
 pip install -r requirements.txt
 streamlit run app.py
-🧭 Project Status
+
+## 🧭 Project Status
 Current version: V1.1 (stable baseline)
+- Scope: Annual operational roadmap visualization
+- Executive summary view
 
-Scope: Annual operational roadmap visualization
-
-Potential next iterations (V2):
-
-Filters by quarter or component
-
-Executive summary view
-
-Export to PDF or image
-
-Historical snapshots of roadmap changes
-
-📌 Notes
-This dashboard is designed as a planning and alignment tool, not as a real-time KPI or performance tracking system.
+## 📌 Notes
+*This dashboard is designed as a planning and alignment tool, not as a real-time KPI or performance tracking system.*
 
